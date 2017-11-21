@@ -20,7 +20,6 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		PelotaLoca juego = new PelotaLoca();
-		//Pelota juego = new Pelota();
 		juego.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
